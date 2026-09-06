@@ -1,0 +1,8 @@
+nome=input("nome: ")
+print(nome)
+n1=int(input("numero 1 int: "))
+n2=int(input("numero 2 int: "))
+print(n1+n2)
+n3=float(input("float 1: "))
+n4=float(input("float 2:"))
+print(f"resultado de {n3} e {n4} = {n3+n4}")

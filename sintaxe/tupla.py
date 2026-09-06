@@ -1,0 +1,1 @@
+cores=("vermelho","verde","azul")
